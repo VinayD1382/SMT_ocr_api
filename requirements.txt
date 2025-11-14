@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+opencv-python-headless
+pytesseract
+easyocr
+numpy
+pandas
+scikit-learn
+joblib
